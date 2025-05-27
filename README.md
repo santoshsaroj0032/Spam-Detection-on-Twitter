@@ -1,23 +1,17 @@
-<<<<<<< HEAD
+ 
  # 🚀 Twitter Spam Detection with Deep Learning
 AI-Powered Twitter Spam Detection using LSTM deep learning (94% accuracy) with real-time Kafka streaming, Flask API backend, and React dashboard—deployed via Docker to classify phishing, bots, and promotions instantly.
  
 ## 📌 Project Overview
-=======
  
->>>>>>> dc87ead0658524d0d1e138f9130e73166e16069f
-
 This deep learning system detects spam in real-time Twitter streams using LSTM neural networks. The architecture includes:
 
-<<<<<<< HEAD
-- **LSTM Classifier** (94.2% accuracy)
+ - **LSTM Classifier** (94.2% accuracy)
 - **Real-time Twitter API pipeline**
 - **Interactive React Dashboard**
 - **Kafka-powered stream processing**
-=======
-## Spam Detectin in Twitter  
->>>>>>> dc87ead0658524d0d1e138f9130e73166e16069f
-
+ ## Spam Detectin in Twitter  
+ 
 ![System Architecture](assets/architecture-diagram.png) *(Suggested: Diagram of your data flow from Twitter → Kafka → Model → UI)*
 
 ## 📊 Model Performance
@@ -45,8 +39,7 @@ Actual Spam  [ TP    FP ]
 **Real-time Analytics**  
 ![Analytics](assets/analytics-view.png) *(Suggested: Graph showing spam/ham ratio over time)*
 
-<<<<<<< HEAD
-## 🛠️ Tech Stack
+ ## 🛠️ Tech Stack
 
  
 ![alt text](image.png)
@@ -77,4 +70,4 @@ cd TwitterAPI/UI && npm start
 =======
   #### Technologies :
   Google Colab, GPU, Python, Tensorflow, Keras, LSTM, NLP, Flask, Docker, NodeJS, Twitter API, Apache Kafka, Socket.io, Event Emitters, MongoDB, React, HTML, CSS
->>>>>>> dc87ead0658524d0d1e138f9130e73166e16069f
+ 
