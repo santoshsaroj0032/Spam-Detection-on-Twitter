@@ -1,7 +1,7 @@
-# Deep learning
+ 
 
 
-## Spam Ham Classifier
+## Spam Detectin in Twitter  
 
 This is a classic machine learning problem solved using Deep Learning based LSTM Model. We have built this model using pre processed labelled emails which were classified as spam or ham. We have exposed this trained model DL model using flask api.
 
